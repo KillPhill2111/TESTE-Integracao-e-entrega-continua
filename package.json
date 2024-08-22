@@ -1,0 +1,11 @@
+{
+  "name": "teste-integracao-e-entrega-continua",
+  "version": "1.0.0",
+  "description": "Repositorio para aula de CI/CD da Fatec Matão, ministrado pela professora Paula.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

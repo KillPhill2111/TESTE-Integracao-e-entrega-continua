@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import ListaCompras from './components/ListaCompras/ListaCompras';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       </h1>
       <div>
         <h2>Olá pipelines!</h2>
+        <ListaCompras></ListaCompras>
       </div>
     </div>
   );

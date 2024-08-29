@@ -7,12 +7,7 @@ function App() {
     <div className="App">
       <div>
         <h2>Olá pipelines!</h2>
-        <p>Teste de modificação</p>
-        <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
+        
         <ListaCompras></ListaCompras>
       </div>
     </div>

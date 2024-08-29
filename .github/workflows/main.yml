@@ -1,4 +1,4 @@
-name: Node.js/React CI/CD
+name: Node.js/React.js-CI/CD
 on: 
   pull_request:
     branches:
@@ -10,7 +10,7 @@ on:
   
 jobs:
   build:
-    runs-on: windows 10
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - name: Using Node.js

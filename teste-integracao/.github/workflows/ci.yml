@@ -26,5 +26,6 @@ jobs:
     - name: Using React.js
       run: npm start
     - name: Run tests
-      run: npm test
+
+      run: npm test 
 

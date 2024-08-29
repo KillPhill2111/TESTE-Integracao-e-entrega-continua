@@ -1,5 +1,5 @@
 import React ,{ useState }  from 'react'
-import AddItens from '../AddItens/AddItens'
+// import AddItens from '../AddItens/AddItens'
 
 function ListaCompras(itens, lista) {
   const [items, setItems]=useState([])
@@ -16,7 +16,8 @@ function ListaCompras(itens, lista) {
     setItems(items.filter((_, i) => i !== index));
   };
   return (
-    <div>
+    <div className="container">
+      <h1>Bem vindo ao projeto de integração e entrega continua!!</h1>
       <h1>Lista de Compras</h1>
       <input
         type="text"

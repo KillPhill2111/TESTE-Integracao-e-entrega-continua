@@ -9,10 +9,7 @@ function App() {
         <h2>Olá pipelines!</h2>
         <ListaCompras></ListaCompras>
       </div>
-      <div>
-        <h2>Teste</h2>
-        
-      </div>
+      
     </div>
   );
 }

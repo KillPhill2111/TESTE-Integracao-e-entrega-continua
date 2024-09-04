@@ -10,6 +10,7 @@ function App() {
         <ListaCompras></ListaCompras>
       </div>
       <div>
+        <h2>Teste</h2>
         
       </div>
     </div>
